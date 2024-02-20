@@ -1,5 +1,8 @@
 # Correlation project
 
+Submitted: 20.02.2024
+Creator: Camila Villazón
+
 To run the project you must have the file for the gene expression data for E. coli from Colombos DB.
 
 First, you must run [01_correlation](https://github.com/CamilaVillazon/correlation_project/blob/master/src/01_correlations.R). This R script must be run on a server, as it will take many hour to run (~12 hrs).
